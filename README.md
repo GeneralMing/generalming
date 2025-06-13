@@ -65,9 +65,9 @@ At Tapchief (acquired by Unacademy), I focused on infrastructure optimization, c
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=advaithkrishna&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GeneralMing&show_icons=true&count_private=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=advaithkrishna&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeneralMing&layout=compact" alt="Top Languages" />
 </p>
 
 ---
